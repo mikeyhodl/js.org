@@ -863,6 +863,7 @@ var cnames_active = {
   "discord-voice": "discord-voice.netlify.app",
   "discord-vr": "hosting.gitbook.io", // noCF
   "discordeno": "discordeno.github.io/discordeno",
+  "discordforge": "cname.vercel-dns.com",
   "discordhttps": "discordhttps.github.io/discord.https",
   "discordhy": "readthedocs.io",
   "discordkit": "swothh.github.io/discordkit",
@@ -3840,8 +3841,7 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zylog": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes",
-  "discordforge": "cname.vercel-dns.com"
+  "zyy": "zyyou.github.io/notes"
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
